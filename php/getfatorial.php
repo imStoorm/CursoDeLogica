@@ -1,3 +1,4 @@
+<?php
 $numero = 5;
 $res = $numero;
 $i = $numero - 1;
@@ -6,3 +7,4 @@ while($i > 0) {
     $i = $i - 1;
 }
 print($res);
+?>
